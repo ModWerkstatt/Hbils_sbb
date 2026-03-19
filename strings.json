@@ -1,0 +1,45 @@
+{
+  "en": {
+		"menu_sbb_hbils": "Sliding wall wagon SBB with 2-axles (Hbi(l)s)",
+			
+		"fake": "Fake - ",
+		
+		"fake_sbb_hbils": "Activate fake versions?",
+		"tooltip_fake": "Should the fake versions of the Slps725 be activated?",
+			
+		"sbb_hbils_desc" : "In 1968, Ateliers de constructions mécaniques de Vevey ACMV developed standard sliding wall cars for SBB. By 1981, a total of 3351 Hbis of the ACMV type were in service with SBB. Over the years, there were several variants and extensions of these cars. These are still in service today.",
+		"sbb_hbils_glatt_desc" : "In 1973, some of the Hbis were equipped with insulated sliding walls (electric heating and thermal insulation) and classified as Hbis-vxy. These existed and exist in numerous advertising paint schemes and are still in use today.",
+	
+		"offset x-axis": "Offset x-axis",
+		"vehicle": "Vehicle",
+		"asset": "Asset",
+		"height": "Height",
+		"ground": "Ground",
+		"rail": "Rail",
+		"height_tooltip": "Where should be the origin of the height?",
+		"jrm_param_offsetx_tooltip": "Offset in x direction"
+	
+  },
+  "de": {
+		"menu_sbb_hbils": " Hbi(l)s) Schiebewandwagen SBB 2-achsig",
+		
+		"fake": "Fake -",	
+		
+		"fake_sbb_hbils": "Fake-Versionen aktivieren?",
+		"tooltip_fake": "Sollen die Fake-Versionen des Slps725 aktiviert werden?",
+			
+		"sbb_hbils_desc" : "1968 wurden von Ateliers de constructions mécaniques de Vevey ACMV Standard Schiebewandwagen für die SBB entwickelt. Bis 1981 waren insgesamt 3351 Hbis vom Typ-ACMV bei der SBB im Einsatz. Im Laufe der Jahre gab es einige Varianten und Erweiterungen dieser Wagen. Diese sind bis heute weiterhin im Einsatz.",
+		"sbb_hbils_glatt_desc" : "Im Jahre 1973 wurden einige der Hbis mit isolierten Schiebewänden (elektrischer Heizung und Wärmeisolation) ausgestattet und als Hbis-vxy eingereiht. Diese gab und gibt es in zahlreichen Werbelackierungen und sind bis heute im Einsatz. ",
+		
+		"offset x-axis": "Offset x-Achse",
+		"vehicle": "Fahrzeug",
+		"asset": "Asset",
+		"height": "Höhe",
+		"ground": "Boden",
+		"rail": "Schiene",
+		"height_tooltip": "Wonach soll die Höhe gesetzt werden?",
+		"jrm_param_offsetx_tooltip": "Verschiebung in x-Richtung"
+
+	
+    }
+}
