@@ -15,7 +15,7 @@
         }
     ],
     "incompatibilities": null,
-    "modId": "mw_sbb_hbils",
+    "modId": "mw_hbils_sbb",
     "params":null,
     "postRunScript": {
         "fileName": ""
